@@ -91,7 +91,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"brand\">\n  <div class=\"name\">\n    Carolina <br />\n    Vallejo <br />\n    Martínez\n  </div>\n  <div class=\"title\">Frontend Engineer</div>\n  <div class=\"line\"></div>\n</div>\n\n<div class=\"sentence\">\n  I am a Frontend engineer happy to build robust and scalable software using the\n  best development technologies and working effectively in cross-functional\n  teams.\n</div>\n\n<!-- LOGOS -->\n\n<div class=\"logos\">\n  <a\n    href=\"https://github.com/carolina-vallejo\"\n    class=\"social github\"\n    target=\"_blank\"\n  ></a>\n  <a\n    href=\"https://www.linkedin.com/in/carolina-vallejo-mart%C3%ADnez-76861145/\"\n    class=\"social linkedin\"\n    target=\"_blank\"\n  ></a>\n  <a class=\"social vimeo\" target=\"_blank\"></a>\n</div>\n";
+    __webpack_exports__["default"] = "<div class=\"brand\">\n  <div class=\"name\">\n    Carolina <br />\n    Vallejo <br />\n    Martínez\n  </div>\n  <div class=\"title\">Frontend Engineer</div>\n  <div class=\"line\"></div>\n</div>\n\n<div class=\"sentence\">\n  I am a Frontend engineer happy to build robust and scalable software using the\n  best development technologies and working effectively in cross-functional\n  teams.\n</div>\n\n<!-- LOGOS -->\n\n<div class=\"logos\">\n  <a\n    href=\"https://github.com/carolina-vallejo\"\n    class=\"social github\"\n    target=\"_blank\"\n  ></a>\n  <a\n    href=\"https://www.linkedin.com/in/carolina-v-76861145/\"\n    class=\"social linkedin\"\n    target=\"_blank\"\n  ></a>\n</div>\n";
     /***/
   },
 
