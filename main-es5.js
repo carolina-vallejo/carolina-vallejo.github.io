@@ -1532,12 +1532,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       status: "published",
       category: "Software development",
       title: "Lead Frontend Engineer | ITONICS GmbH",
-      year: "2018-2023",
+      year: "2018-present",
       spec: "Software development",
       description: "In ITONICS GmbH I work as a Lead frontend engineer helping to build innovation management software. I have different roles and responsibilities.\n    <br><br>\n      One of the most crucial role is Team Lead. I use Scrum Methodologies to coordinate a team of developers, QA engineers and designers. I perform code reviews, write technical specifications and also do the planning in coordination with product owners and other technical leads. I am also taking part in the training and mentorship of junior developers.\n      <br><br>\n      My second role is Frontend Developer. I implement frontend features with Angular, Typescript, SASS, HTML. I work closely with backend engineers integrating REST APIs and GraphQL. I am familiar with Elastic Search, DynamoDB and PostgreSQL.\n      <br><br>\n      I am also specialised in implementing interactive data visualisations with D3.js + Angular.\n    ",
       color: "#4a4a4a",
       links: [{
-        title: "Website",
+        title: "Company website",
         href: "https://www.itonics-innovation.de/produkt"
       }]
     }];

@@ -869,7 +869,7 @@ const portfolioData = [
         status: "published",
         category: "Software development",
         title: "Lead Frontend Engineer | ITONICS GmbH",
-        year: "2018-2023",
+        year: "2018-present",
         spec: "Software development",
         description: `In ITONICS GmbH I work as a Lead frontend engineer helping to build innovation management software. I have different roles and responsibilities.
     <br><br>
@@ -882,7 +882,7 @@ const portfolioData = [
         color: "#4a4a4a",
         links: [
             {
-                title: "Website",
+                title: "Company website",
                 href: "https://www.itonics-innovation.de/produkt",
             },
         ],
