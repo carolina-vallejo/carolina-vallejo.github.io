@@ -100,8 +100,11 @@
     title: 'Data visualisation for gender statistics',
     year: '2017',
     spec: 'Information Design & Data visualisation',
-    description:
-      'The main objective of this project is to build a data visualisation that allows explore and contrast gender statistics extracted from World Data Bank. This visualisation takes gender statistics indicators from different issues like unemployment, education, economy, etc. calculates the average and shows a comparison between females and males in each country.',
+    description: `This project focused on creating an interactive data visualisation to explore and compare gender statistics from the World Bank DataBank.
+      <br><br>
+      The visualisation used gender-related indicators from areas such as unemployment, education, economy, and other social topics. It processed the data by calculating average values and then presented the results in a way that made it easier to compare women and men across different countries.
+      <br><br>
+      The goal was to make complex statistical data more accessible and to help users identify differences, patterns, and inequalities between genders through a clear visual interface.`,
     color: '#4a4a4a',
     links: [
       {
@@ -119,15 +122,15 @@
     status: 'published',
     category: 'Software development',
     title: 'Lead Frontend Engineer | ITONICS GmbH',
-    year: '2018-2024 (~6 years)',
+    year: '2018-2024 (6 years)',
     spec: 'Software development',
-    description: `In ITONICS GmbH I work as a Lead frontend engineer helping to build innovation management software. I have different roles and responsibilities.
+    description: `At ITONICS GmbH, I worked as a Lead Frontend Engineer, helping to build innovation management software. I had different roles and responsibilities.
     <br><br>
-      One of the most crucial role is Team Lead. I use Scrum Methodologies to coordinate a team of developers, QA engineers and designers. I perform code reviews, write technical specifications and also do the planning in coordination with product owners and other technical leads. I am also taking part in the training and mentorship of junior developers.
-      <br><br>
-      My second role is Frontend Developer. I implement frontend features with Angular, Typescript, SASS, HTML. I work closely with backend engineers integrating REST APIs and GraphQL. I am familiar with Elastic Search, DynamoDB and PostgreSQL.
-      <br><br>
-      I am also specialised in implementing interactive data visualisations with D3.js + Angular.
+    One of my main responsibilities was acting as Team Lead. I used Scrum methodologies to coordinate a team of developers, QA engineers, and designers. I performed code reviews, wrote technical specifications, and supported planning in coordination with product owners and other technical leads. I also helped train and mentor junior developers.
+    <br><br>
+    In my role as Frontend Developer, I implemented frontend features using Angular, TypeScript, SASS, and HTML. I worked closely with backend engineers to integrate REST APIs and GraphQL. I also gained experience with Elasticsearch, DynamoDB, and PostgreSQL.
+    <br><br>
+    I also specialised in implementing interactive data visualisations using D3.js and Angular.
     `,
     color: '#4a4a4a',
     links: [
@@ -142,11 +145,11 @@
     status: 'published',
     category: 'Software development',
     title: 'Senior Software Engineer  | B. Braun SE',
-    year: '2024-present (+2 years)',
+    year: '2024-present (2 years)',
     spec: 'Software development',
     description: `In my current role at B. Braun, I am the main frontend engineer for a real-time dashboard application connected to medical devices. I am responsible for the frontend architecture and many of the technical decisions around application structure, maintainability, and user experience.
     <br><br>
-    Collaborating closely with backend teams on Java services, REST APIs, WebSocket communication, and FHIR-based integrations. Contributing to usability, UX, and product design discussions, while working with CI/CD workflows and Azure cloud platform.
+    Collaborating closely with backend developers on Java services, REST APIs, WebSocket communication, and FHIR-based integrations. Contributing to usability, UX, and product design discussions, while working with CI/CD workflows and Azure cloud platform.
     `,
     color: '#4a4a4a',
     links: [],
